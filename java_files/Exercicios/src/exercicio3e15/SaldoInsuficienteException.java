@@ -1,4 +1,4 @@
-package exercicio3;
+package exercicio3e15;
 
 class SaldoInsuficienteException extends Exception {
     public SaldoInsuficienteException(double saldo, double valor) {
